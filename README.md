@@ -7,7 +7,7 @@
 2. Копирует обработанный текст в буфер обмена
 3. Автоматически создает ярлык на рабочем столе при первом запуске <button class="citation-flag" data-index="7">
                       
-![Пример скриншота приложения](\Screenshot.jpg) *(Добавьте скриншот)*
+![Пример скриншота приложения]([\Screenshot.jpg](https://github.com/nata-rozanova80/Delete-Enter/blob/main/Screenshot.jpg)) *(Добавьте скриншот)*
 
 ## Требования
 - Windows 10/11
